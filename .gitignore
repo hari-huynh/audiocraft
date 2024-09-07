@@ -50,7 +50,7 @@ ENV/
 egs/*
 !egs/example
 # local datasets
-dataset/*
+# dataset/*
 !dataset/example
 
 # personal notebooks & scripts
