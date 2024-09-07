@@ -1,0 +1,10 @@
+# @package __global__
+
+datasource:
+  max_sample_rate: 44100
+  max_channels: 2
+
+  train: egs/folk_song
+  valid: egs/folk_song
+  evaluate: egs/folk_song
+  generate: egs/folk_song
