@@ -9,7 +9,6 @@
 {"path": "dataset/folk_song/audio0_chunk8.wav", "duration": 30.0, "sample_rate": 44100, "amplitude": null, "weight": null, "info_path": null}
 {"path": "dataset/folk_song/audio0_chunk9.wav", "duration": 30.0, "sample_rate": 44100, "amplitude": null, "weight": null, "info_path": null}
 {"path": "dataset/folk_song/audio0_chunk10.wav", "duration": 10.0, "sample_rate": 44100, "amplitude": null, "weight": null, "info_path": null}
-
 {"path": "dataset/folk_song/audio1_chunk0.wav", "duration": 30.0, "sample_rate": 44100, "amplitude": null, "weight": null, "info_path": null}
 {"path": "dataset/folk_song/audio1_chunk1.wav", "duration": 30.0, "sample_rate": 44100, "amplitude": null, "weight": null, "info_path": null}
 {"path": "dataset/folk_song/audio1_chunk2.wav", "duration": 30.0, "sample_rate": 44100, "amplitude": null, "weight": null, "info_path": null}
@@ -22,7 +21,6 @@
 {"path": "dataset/folk_song/audio1_chunk9.wav", "duration": 30.0, "sample_rate": 44100, "amplitude": null, "weight": null, "info_path": null}
 {"path": "dataset/folk_song/audio1_chunk10.wav", "duration": 30.0, "sample_rate": 44100, "amplitude": null, "weight": null, "info_path": null}
 {"path": "dataset/folk_song/audio1_chunk11.wav", "duration": 4.0, "sample_rate": 44100, "amplitude": null, "weight": null, "info_path": null}
-
 {"path": "dataset/folk_song/audio2_chunk0.wav", "duration": 30.0, "sample_rate": 44100, "amplitude": null, "weight": null, "info_path": null}
 {"path": "dataset/folk_song/audio2_chunk1.wav", "duration": 30.0, "sample_rate": 44100, "amplitude": null, "weight": null, "info_path": null}
 {"path": "dataset/folk_song/audio2_chunk2.wav", "duration": 30.0, "sample_rate": 44100, "amplitude": null, "weight": null, "info_path": null}
@@ -33,7 +31,6 @@
 {"path": "dataset/folk_song/audio2_chunk7.wav", "duration": 30.0, "sample_rate": 44100, "amplitude": null, "weight": null, "info_path": null}
 {"path": "dataset/folk_song/audio2_chunk8.wav", "duration": 30.0, "sample_rate": 44100, "amplitude": null, "weight": null, "info_path": null}
 {"path": "dataset/folk_song/audio2_chunk9.wav", "duration": 20.0, "sample_rate": 44100, "amplitude": null, "weight": null, "info_path": null}
-
 {"path": "dataset/folk_song/audio3_chunk0.wav", "duration": 30.0, "sample_rate": 44100, "amplitude": null, "weight": null, "info_path": null}
 {"path": "dataset/folk_song/audio3_chunk1.wav", "duration": 30.0, "sample_rate": 44100, "amplitude": null, "weight": null, "info_path": null}
 {"path": "dataset/folk_song/audio3_chunk2.wav", "duration": 30.0, "sample_rate": 44100, "amplitude": null, "weight": null, "info_path": null}
@@ -44,7 +41,6 @@
 {"path": "dataset/folk_song/audio3_chunk7.wav", "duration": 30.0, "sample_rate": 44100, "amplitude": null, "weight": null, "info_path": null}
 {"path": "dataset/folk_song/audio3_chunk8.wav", "duration": 30.0, "sample_rate": 44100, "amplitude": null, "weight": null, "info_path": null}
 {"path": "dataset/folk_song/audio3_chunk9.wav", "duration": 28.0, "sample_rate": 44100, "amplitude": null, "weight": null, "info_path": null}
-
 {"path": "dataset/folk_song/audio4_chunk0.wav", "duration": 30.0, "sample_rate": 44100, "amplitude": null, "weight": null, "info_path": null}
 {"path": "dataset/folk_song/audio4_chunk1.wav", "duration": 30.0, "sample_rate": 44100, "amplitude": null, "weight": null, "info_path": null}
 {"path": "dataset/folk_song/audio4_chunk2.wav", "duration": 30.0, "sample_rate": 44100, "amplitude": null, "weight": null, "info_path": null}
